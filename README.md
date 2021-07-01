@@ -37,7 +37,7 @@ When the user runs the application in Terminal:
 
 Since this application is run through the terminal, there is no website to view. To see how this application works, please follow the link below to view a walkthrough video.
 
-<a href="" target="_blank">Click here to watch the video!</a>
+<a href="https://drive.google.com/file/d/1Cc1P-2J2fFkYp1ILjlrEFP1WyI-jTXtI/view?usp=sharing" target="_blank">Click here to watch the video!</a>
 
 ## License
 

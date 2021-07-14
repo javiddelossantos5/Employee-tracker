@@ -1,8 +1,8 @@
 {
   "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)",
-  "main": "employeeManager.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

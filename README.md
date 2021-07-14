@@ -39,10 +39,3 @@ Since this application is run through the terminal, there is no website to view.
 
 <a href="https://drive.google.com/file/d/1Cc1P-2J2fFkYp1ILjlrEFP1WyI-jTXtI/view?usp=sharing" target="_blank">Click here to watch the video!</a>
 
-## License
-
-This application is using MIT.
-
-## Lessons Learned
-
-Good naming habits really pay off when writing extensive amounts of code. I had to re-name variables a number of times so they made sense later on when the variable was no longer visible.
